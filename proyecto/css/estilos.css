@@ -1,0 +1,144 @@
+
+h1 {
+  font-family: "Playwrite IE", cursive;
+  font-weight: 500;
+    font-style: italic;
+    font-size: 3rem;
+}
+
+
+p {
+  font-family: "Playwrite IE", cursive;
+   font-weight: 400;
+    font-style: italic;
+    font-size: 1rem;
+}
+
+
+body {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+h1 {
+  color: #ffd700;
+}
+
+.tilde {
+  color: #00ccff;
+}
+
+table, th, td {
+  border: 3px solid #ffffff;
+}
+
+th {
+  background-color: #ffd700;
+  color: #ffffff; 
+}
+
+.texto:hover {
+  color: blue;
+}
+
+h2:hover {
+
+    color: brown;
+}
+
+td, th {
+  padding: 10px;
+}
+
+table {
+  margin: 15px;
+}
+
+.texto {
+    max-width: 900px;
+    margin: auto;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: self-start;
+  justify-content: center;
+
+}
+
+.menu {
+  display: flex;        
+  gap: 10px;            
+}
+
+.menu a {
+  color: blue;
+  text-decoration: underline;
+}
+.s5{
+  display: flex;
+  gap: 10px; 
+}
+
+.s5 img {
+  width: 150px;
+  height: auto;
+}
+
+.s5{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.s5 {
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+     display: flex;
+  justify-content: center;
+}
+
+h2{
+     display: flex;
+  justify-content: center;
+}
+
+table{
+    display: flex;
+  justify-content: center;
+}
+
+.imdd{
+  float: left;
+  margin-block-start: -850px;
+  width: 1350px;
+  height: 850px;
+}
+header{
+  position: sticky;
+  top: 0;
+  background-color:  #121212;
+  padding: 15px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    color: #ffd700 ;
+}
+
+
+
+
+
+
