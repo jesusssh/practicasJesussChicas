@@ -137,6 +137,17 @@ footer{
     color: #ffd700 ;
 }
 
+.gale{
+  display: flex;
+  justify-content:unset;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.gale img{
+  width: 20%;
+}
+
 
 
 
